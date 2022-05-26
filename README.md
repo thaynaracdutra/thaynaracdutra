@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Thaynara!
 
-- 1º Periodo de Análise e Desenvolvimento de Sistemas 📖🖥️
+- Estudante de Análise e Desenvolvimento de Sistemas 📖🖥️
 - Estudos com ênfase em QA/Automação de Testes 📖⚙️
 
 <div align="center">
