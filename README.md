@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Thaynara!
 
-- Estudante de Análise e Desenvolvimento de Sistemas 📖🖥️
-- Estudos pessoais com ênfase em QA e Automação de Testes 📖⚙️
+- Analista de Qualidade de Software 📖⚙️
 
 <div align="center">
   <a href="https://github.com/thaynaracdutra">
