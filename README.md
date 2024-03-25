@@ -1,6 +1,6 @@
 ## Olá 👋, eu sou a Thaynara!
 
-- ⚡ Fun fact:**feature sem bugs é melhor que café**
+- ⚡ Fun fact: **feature sem bugs é melhor que café**
 
 <div align="center">
   <a href="https://github.com/thaynaracdutra">
