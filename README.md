@@ -1,11 +1,11 @@
-## Olá! Eu sou a Thaynara!
+## Olá 👋, eu sou a Thaynara!
 
-- Analista de Qualidade de Software 📖⚙️
+- ⚡ Fun fact **Feature sem bugs é melhor que café**
 
 <div align="center">
   <a href="https://github.com/thaynaracdutra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynaracdutra&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaracdutra&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaynaracdutra&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynaracdutra&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thay-Cypress" height="30" width="40" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png">
